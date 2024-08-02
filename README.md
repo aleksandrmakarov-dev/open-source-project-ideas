@@ -9,4 +9,4 @@ Link: [https://datamodels.databases.biz/](https://datamodels.databases.biz/)
 ## Draw SQL
 
 This page shows a list of open source databases.  
-Link: [https://drawsql.app/templates](https://drawsql.app/template)
+Link: [https://drawsql.app](https://drawsql.app/templates/popular)
